@@ -2,7 +2,7 @@
 
 <h2 align="center">A software engineer</h2>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
+<img align="right" alt="Coding" width="350" src="https://github.com/LeticiaSumida/LeticiaSumida/assets/125376398/474878d2-5db4-48fd-aa50-d931c9da0958">
 <br>
 
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **17** years old
@@ -34,7 +34,7 @@
 </p>
 
 <h3 align="right">Languages and Tools:</h3>
-<img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
+<img align="left" alt="Coding" width="380" src="https://github.com/LeticiaSumida/LeticiaSumida/assets/125376398/0923fe2e-c1aa-43f9-b865-8aae335ca926">
 <p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,arduino,git" />
