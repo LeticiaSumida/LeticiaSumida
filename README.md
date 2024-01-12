@@ -12,15 +12,12 @@
     
 - 💬 Ask me about **Anything!**
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=tokyonight" alt="LeticiaSumida" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&layout=compact" />
-</div>
- 
- &nbsp;
- &nbsp;
+![](https://github-readme-stats.vercel.app/api?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=LeticiaSumida&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## My Skills
 
