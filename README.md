@@ -1,7 +1,16 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img_bioGithub.png" />
 
 <h2 align="center">A system development technique</h2> <br>
-<p align="center">I am a passionate Brazilian back-end developer, 17 years old, currently pursuing a degree in Software Engineering at the university. My journey in the programming world began early, and since then, I have been consistently seeking to enhance my skills.</p><br>
+
+- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **17** years old
+
+- 🌱 I’m currently pursuing **Software Engineering**
+  
+- 🌍 Languages **Portuguese - Fluent/Native | English - Intermediate**
+
+- ⚡ Fun fact **I constantly seek to improve my skills**
+    
+- 💬 Ask me about **Anything!**
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=tokyonight" alt="LeticiaSumida" />
