@@ -14,6 +14,8 @@
 - ⚡ Fun fact **I constantly seek to improve my skills**
     
 - 💬 Ask me about **Anything!**
+  
+- 📫 How to reach me **leticiaakemi3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
