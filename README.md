@@ -26,11 +26,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.instagram.com/phzmedeiros?igsh=NGkyODUybDZla3Ez">
+  <a href="https://www.instagram.com/_japa__s2?igsh=NGkyODUybDZla3Ez">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://dev.to/phzmedeiros">
-    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
@@ -55,9 +52,7 @@
 
 <div>
 <a href = "mailto:contato.leticiaakemi3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leticia-akemi-sumida-94607a28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.instagram.com/_japa__s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>&nbsp;&nbsp;
+</div>
  
 
   
