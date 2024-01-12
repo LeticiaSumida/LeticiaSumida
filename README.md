@@ -31,7 +31,6 @@
   </a>
 </p>
 
-
 <h3 align="right">Languages and Tools:</h3>
 <img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
 <p align="right">
@@ -45,6 +44,6 @@
   </a>
 </p>
 <br>
-<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false" />
+<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=radical&hide_border=false" />
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=149&color=B36790&section=footer&reversal=false&fontAlign=50&animation=twinkling&descAlign=22&descAlignY=12"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B36790&section=footer"/>
