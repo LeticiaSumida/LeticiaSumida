@@ -12,12 +12,11 @@
     
 - 💬 Ask me about **Anything!**
 
-![](https://github-readme-stats.vercel.app/api?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=LeticiaSumida&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false)&nbsp;
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)&nbsp;
+  [![](https://visitcount.itsvg.in/api?id=LeticiaSumida&icon=0&color=0)](https://visitcount.itsvg.in)&nbsp;
 
 ## My Skills
 
