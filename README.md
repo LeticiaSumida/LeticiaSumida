@@ -71,4 +71,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=149&color=B36790&section=footer&reversal=false&fontAlign=50&animation=twinkling&descAlign=22&descAlignY=12"/>
