@@ -1,11 +1,11 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img_bioGithub.png" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<h2 align="center">A system development technique</h2> <br>
+<p align="center">From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaSumida&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-LeticiaSumida.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-LeticiaSumida.vercel.app/api/top-langs/?username=LeticiaSumida&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
