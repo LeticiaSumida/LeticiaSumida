@@ -2,7 +2,7 @@
 
 <h2 align="center">A System Development Technique</h2>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
+<img align="right" alt="Coding" width="350" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
 <br>
 
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **17** years old
@@ -31,30 +31,20 @@
   </a>
 </p>
 
-<br>
+
 <h3 align="right">Languages and Tools:</h3>
 <img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js,arduino,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,arduino,git" />
   </a>
 </p>
 <p align="right">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,figma,visualstudio,vscode,mysql,react,php" />
+    <img src="https://skillicons.dev/icons?i=java,idea,php,laravel,mysql,linux,vscode" />
   </a>
 </p>
 <br>
 <img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false" />
-
-
-## Contacts:
-
-<div>
-<a href = "mailto:contato.leticiaakemi3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
  
-
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=149&color=B36790&section=footer&reversal=false&fontAlign=50&animation=twinkling&descAlign=22&descAlignY=12"/>
