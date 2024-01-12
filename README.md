@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img_bioGithub.png" />
 
-<h2 align="center">A system development technique</h2> <br>
+<h2 align="center">A System Development Technique</h2>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
 <br>
