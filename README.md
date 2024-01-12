@@ -1,12 +1,12 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img_bioGithub.png" />
 
 <h2 align="center">A system development technique</h2> <br>
-<p align="center">From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I am a passionate Brazilian back-end developer, 17 years old, currently pursuing a degree in Software Engineering at the university. My journey in the programming world began early, and since then, I have been consistently seeking to enhance my skills.</p><br>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeticiaSumida&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-LeticiaSumida.vercel.app/api/top-langs/?username=LeticiaSumida&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=tokyonight" alt="LeticiaSumida" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&layout=compact/>
+</div>
  
  &nbsp;
  &nbsp;
@@ -61,11 +61,10 @@
 
 ## Contacts:
 
-<div> 
-<a href="https://www.instagram.com/_japa__s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div>
 <a href = "mailto:contato.leticiaakemi3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leticia-akemi-sumida-94607a28b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/_japa__s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>&nbsp;&nbsp;
  
 
