@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/PhzMedeiros?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
+  <a href="https://x.com/sumida_akemi?t=fcwLyXJevMz6PE45Bsye9Q&s=08?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/leticia-akemi-sumida-94607a28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -28,9 +28,6 @@
   </a>
   <a href="https://www.instagram.com/_japa__s2?igsh=NGkyODUybDZla3Ez">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://x.com/sumida_akemi?t=fcwLyXJevMz6PE45Bsye9Q&s=08?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
