@@ -43,7 +43,6 @@
     <img src="https://skillicons.dev/icons?i=java,idea,php,laravel,mysql,linux,vscode" />
   </a>
 </p>
-<br>
+
 <img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=radical&hide_border=false" />
- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B36790&section=footer"/>
