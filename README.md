@@ -2,6 +2,9 @@
 
 <h2 align="center">A system development technique</h2> <br>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
+<br>
+
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **17** years old
 
 - 🌱 I’m currently pursuing **Software Engineering**
@@ -12,57 +15,41 @@
     
 - 💬 Ask me about **Anything!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/PhzMedeiros?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/phzmedeiros?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/phzmedeiros?igsh=NGkyODUybDZla3Ez">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://dev.to/phzmedeiros">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+</p>
+
 <br>
+<h3 align="right">Languages and Tools:</h3>
+<img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js,arduino,git" />
+  </a>
+</p>
+<p align="right">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,figma,visualstudio,vscode,mysql,react,php" />
+  </a>
+</p>
+<br>
+<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false" />
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=LeticiaSumida&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSumida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)&nbsp;
-  [![](https://visitcount.itsvg.in/api?id=LeticiaSumida&icon=0&color=0)](https://visitcount.itsvg.in)&nbsp;
-
-## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
 
 ## Contacts:
 
