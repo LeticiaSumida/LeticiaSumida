@@ -29,6 +29,9 @@
   <a href="https://www.instagram.com/_japa__s2?igsh=NGkyODUybDZla3Ez">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://x.com/sumida_akemi?t=fcwLyXJevMz6PE45Bsye9Q&s=08?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 <br>
