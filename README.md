@@ -20,7 +20,7 @@
   <a href="https://x.com/PhzMedeiros?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/phzmedeiros?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/leticia-akemi-sumida-94607a28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://skillicons.dev">
