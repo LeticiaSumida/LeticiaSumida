@@ -11,7 +11,7 @@
   
 - 🌍 Languages **Portuguese - Fluent/Native | English - Intermediate**
 
-- ⚡ Fun fact **I constantly seek to improve my skills**
+- ⚡ Fun fact: **I constantly seek to improve my skills**
     
 - 💬 Ask me about **Anything!**
   
