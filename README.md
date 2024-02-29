@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img_bioGithub.png" />
 
-<h2 align="center">A software engineer</h2>
+<h2 align="center">A software engineer student</h2>
 
 <img align="right" alt="Coding" width="350" src="https://github.com/LeticiaSumida/LeticiaSumida/assets/125376398/474878d2-5db4-48fd-aa50-d931c9da0958">
 <br>
