@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://github.com/LeticiaSumida/LeticiaSumida/assets/125376398/474878d2-5db4-48fd-aa50-d931c9da0958">
 <br>
 
-- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **19** years old
+- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **20** years old
 
 - 🌱 I’m currently pursuing **Software Engineering**
   
